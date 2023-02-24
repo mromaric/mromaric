@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Romaric</h1>
 <h3 align="center">A passionate back-end 🔙 / mobile 📱 developper from Nice (France 🇫🇷)</h3>
+<text align="center">My commits are mostly in a private organization (EPITECH).</text>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mromaric" alt="mromaric" /></a> </p>
 
